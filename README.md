@@ -6,7 +6,7 @@ this plugin is kinda fishy, ngl
 BLablalnbala importan readmy
 
 installation:
-download this stuff:
+download and install this stuff:
 https://rauenzi.github.io/BetterDiscordApp/
 
 then go to settings>plugins (somewhere down there)
