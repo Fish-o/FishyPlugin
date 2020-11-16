@@ -3,6 +3,7 @@
  * @authorId 325893549071663104
  * @version 0.0.1
  * @description im just testing stuff
+ * @source https://raw.githubusercontent.com/Fish-o/FishyPlugin/main/FishyBot.plugin.js
  **/
 
 
